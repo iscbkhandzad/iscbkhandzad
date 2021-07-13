@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @iscbkhandzad
+- 👋 Hi, I’m @iscbkhandzad and this is my work github account.
+- 👨 My primary account is @bkhandzad.
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning types of computer programming languages.
 - 💞️ I’m looking to collaborate on DevOps tasks.
